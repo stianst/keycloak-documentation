@@ -1,0 +1,6 @@
+ifeval::[{project_community}==true]
+= WildFly 15 Upgrade
+
+{project_name} server was upgraded to use WildFly 15 under the covers.
+
+endif::[]
